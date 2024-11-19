@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A simple, passionate freelance web developer specializing in PHP, Laravel, and Vue.js from France.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaominez&label=Profile%20views&color=0e75b6&style=flat" alt="zaominez" /> </p>
 
