@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
-<p align="center">🌟 Passionate Freelance Web Developer from France. I specialize in building robust and scalable web applications using PHP (with the Laravel framework) and modern frontend solutions with Vue.js. 💻 What I love: Crafting clean, maintainable, and efficient code. Learning and experimenting with new tools, frameworks, and best practices. Contributing to innovative projects and collaborating with like-minded developers. 🚀 Tech Stack: Backend: PHP, Laravel Frontend: Vue.js 3, JavaScript Tools: Git, Composer, Webpack, and more 📂 What you’ll find here: Personal projects and tools I’ve built. Contributions to open-source projects. Code samples showcasing my approach to development. Let’s build something amazing together! ✨</p>
+<p align="center">🌟 Passionate Freelance Web Developer from France. I specialize in building robust and scalable web applications using PHP (with the Laravel framework) and modern frontend solutions with Vue.js.
+  
+ 💻 What I love: Crafting clean, maintainable, and efficient code. Learning and experimenting with new tools, frameworks, and best practices. 
+ 
+ Contributing to innovative projects and collaborating with like-minded developers. 🚀 Tech Stack: Backend: PHP, Laravel Frontend: Vue.js 3, JavaScript Tools: Git, Composer, Webpack, and more 📂
+ 
+ What you’ll find here: Personal projects and tools I’ve built. Contributions to open-source projects. Code samples showcasing my approach to development. Let’s build something amazing together! ✨
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaominez&show_icons=true&locale=en&layout=compact" alt="zaominez" /></p>
 
